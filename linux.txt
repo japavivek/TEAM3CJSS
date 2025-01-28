@@ -1,0 +1,5 @@
+Basic commands of Linus
+cd {change Directory}
+cd .. {come out of the p.w.directory}
+cd -   {back to old working directory}
+
